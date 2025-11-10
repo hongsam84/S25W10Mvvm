@@ -7,4 +7,3 @@
 https://nano5.notion.site/MVVM-SwiftUI-2a2daf211d4280d196a2c8dd124ccd7d?source=copy_link
 
 https://zrr.kr/IBACxu
-
